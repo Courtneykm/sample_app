@@ -70,6 +70,6 @@ Rails.application.configure do
 
   config.hosts.clear
 
-  root "application#hello"
+  #root "application#hello"
 
 end
